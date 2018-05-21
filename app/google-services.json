@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "335480287626",
+    "firebase_url": "https://ieteregistration.firebaseio.com",
+    "project_id": "ieteregistration",
+    "storage_bucket": "ieteregistration.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335480287626:android:269377f18ea8f027",
+        "android_client_info": {
+          "package_name": "ambika.android.com.iete_registration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335480287626-083jenh7me8itrol72e6r6ghah8gui5h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ambika.android.com.iete_registration",
+            "certificate_hash": "a339b0a7ca644f56515daa5f9b578cd3e00f9dfc"
+          }
+        },
+        {
+          "client_id": "335480287626-2da17r4qb1hcnvv51k8jbvh9202rctfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8bbvblQFk0mPA837o21vr3mCV8zyU76w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335480287626-2da17r4qb1hcnvv51k8jbvh9202rctfv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
